@@ -9,36 +9,37 @@ Studying to becoma a game dev in Sweden. This is a overwiev of the projects i ha
 
 # My Projects
 
-// image
-##Battle arena
+## Battle arena
+<img src="https://github.com/SenseiLegacy/Portfolio/blob/main/Images/BattleArena.png" alt="Sample Image" width="250" height="400">
+
 
 <details open>
- >**Developed:** 2025
->
->**Library:** Unity 
->
->**Language:** C#
->
->**Genre:** Mobile Game
+ 
+> **Developed:** 2025  <br/>
+>  
+> **Library:** Unity  <br/>
+>  
+> **Language:** C#  <br/>
+>  
+> **Genre:** Mobile Game  
 </details>
 
 ### Overview
 Testing out the mechanics of turnbased combat with implemented classes, Simple AI, leveling system and skill made with scriptableobject. With the main goal of Learning and testing more with hiearchy and scriptable object.
 
 
-
-// Image
-
 ## Building Project
+<img src="https://github.com/SenseiLegacy/Portfolio/blob/main/Images/BuildProject.png" alt="Sample Image" width="400" height="300">
 
 <details open>
- >**Developed:** 2025 - Ongoing
+ 
+> **Developed:** 2025 - Ongoing <br/>
 >
->**Library:** Unreal Engine 5
+> **Library:** Unreal Engine 5 <br/>
 >
->**Language:** Blueprints
+> **Language:** Blueprints <br/>
 >
->**Genre:** Building Mechanics
+> **Genre:** Building Mechanics
 </details>
 
 ### Overview
@@ -47,18 +48,21 @@ While not implemented as part of a game. I wanted to work on a more fluid buidli
 
 # Group Projects
 
-// Image
+
 
 ## ChainMail
 
+<img src="https://github.com/SenseiLegacy/Portfolio/blob/main/Images/ChainMail.png" alt="Sample Image" width="400" height="300">
+
 <details open>
- >**Developed:** 2024 
+ 
+ > **Developed:** 2024 <br/>
 >
->**Library:** Unity
+> **Library:** Unity <br/>
 >
->**Language:** C#
+> **Language:** C# <br/>
 >
->**Genre:** Hack and Slash
+> **Genre:** Hack and Slash
 </details>
 
 ### Overview
@@ -73,11 +77,12 @@ Group manegment was a big part for me in this project aswell as working on Enemy
 ## Kvävd
 
 <details open>
- >**Developed:** 2025 
+ 
+ > **Developed:** 2025 <br/>
 >
->**Library:** Unreal Engine 5
+>**Library:** Unreal Engine 5 <br/>
 >
->**Language:** Blueprints
+>**Language:** Blueprints <br/>
 >
 >**Genre:** Atmospheric walking simulator
 </details>
